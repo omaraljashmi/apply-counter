@@ -1,0 +1,7 @@
+.DS_Store
+build/
+
+# Personal reference photos and discarded artwork variants
+assets/*-reference.png
+assets/cat-trio.png
+assets/cat-trio-v2.png
